@@ -11,15 +11,15 @@
     <itunes:category text="News"/>
     <itunes:image href="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/artwork.jpg"/>
     <image><url>https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/artwork.jpg</url><title>Ernst Daily Briefing</title><link>https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing</link></image>
-    <lastBuildDate>Wed, 09 Sep 2026 13:37:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:27:47 +0000</lastBuildDate>
     <item>
       <title>Ernst Daily Briefing — 2026-09-09</title>
       <description>Ernst Daily Briefing for 2026-09-09.</description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-09-09.mp3" length="2325744" type="audio/mpeg"/>
+      <enclosure url="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-09-09.mp3" length="2519856" type="audio/mpeg"/>
       <guid isPermaLink="false">https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-09-09.mp3</guid>
       <itunes:author>Ernst</itunes:author>
-      <itunes:duration>00:06:28</itunes:duration>
+      <itunes:duration>00:07:00</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
