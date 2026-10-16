@@ -11,7 +11,18 @@
     <itunes:category text="News"/>
     <itunes:image href="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/artwork.jpg"/>
     <image><url>https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/artwork.jpg</url><title>Ernst Daily Briefing</title><link>https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing</link></image>
-    <lastBuildDate>Thu, 15 Oct 2026 02:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 02:30:00 +0000</lastBuildDate>
+    <item>
+      <title>Ernst Daily Briefing — 2026-10-16</title>
+      <description>Ernst Daily Briefing for 2026-10-16.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-10-16.mp3" length="2053728" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-10-16.mp3</guid>
+      <itunes:author>Ernst</itunes:author>
+      <itunes:duration>00:05:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
     <item>
       <title>Ernst Daily Briefing — 2026-10-15</title>
       <description>Ernst Daily Briefing for 2026-10-15.</description>
@@ -64,15 +75,5 @@
       <itunes:duration>00:07:14</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
-    <item>
-      <title>Ernst Daily Briefing — 2026-10-08</title>
-      <description>Ernst Daily Briefing for 2026-10-08.</description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-10-08.mp3" length="2241360" type="audio/mpeg"/>
-      <guid isPermaLink="false">https://ehburger-beep.github.io/autogen-podcasts/f/fbcfdb29f7fbe5f175b555c5bc1c3a57/ernst-daily-briefing/episodes/ernst_daily_briefing_2026-10-08.mp3</guid>
-      <itunes:author>Ernst</itunes:author>
-      <itunes:duration>00:06:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item></channel>
+</channel>
 </rss>
